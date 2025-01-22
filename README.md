@@ -17,4 +17,7 @@ npm i express # version corta
 
 Es buena practica y recomendado, meter `node_modules` en nuestro `.gitignore` para evitar subir todas las dependencias. 
 
-para arranacar el server se lanza node.js en terminal
+para arranacar el server se lanza node server.js en terminal
+
+# Endpoint básico
+devuelve tanto al server como cliente
